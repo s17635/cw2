@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Cw2": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\jerzo\\Documents\\PJATK\\Semestr 6\\APBD\\cw2\\data.csv\" \"C:\\Users\\jerzo\\Documents\\PJATK\\Semestr 6\\APBD\\cw2\\wynik.xml\" xml"
+    }
+  }
+}
